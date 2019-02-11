@@ -5,20 +5,34 @@
 - title: About Class
   url: "/about-class/"
   side: left
+  dropdown:
+    - title: "Instructor"
+      url: "/about-class/instructor/"
+    - title: "Syllabus"
+      url: "/about-class/syllabus/"
+    - title: "evaluation"
+      url: "/about-class/eval/"
 
-- title: "Class Material"
-  url: "/class-material/"
+
+- title: "Class Resources"
+  url: "/class-resources/"
   side: left
   dropdown:
   - title: "Suggested Reading"
-    url: "/class-material/sugg-read/"
+    url: "/class-resources/sugg-read/"
   - title: "Slides"
-    url: "/design/slides/"
+    url: "/dclass-resources/slides/"
+  - title: "Hardware"
+    url: "/class-resources/hw"
   
-- title: "Projects"
-  url: "/Projects/"
+- title: "Project"
+  url: "/project/"
   side: left
+
+- title: "Archive"
+  url: "/archive"
+  side: right
   dropdown:
-  - title: "Spring 19"
-    url: "/Projects/Spring19/"
+  - title: "Fall 18"
+    url: "/projects/f19/"
  
